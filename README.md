@@ -1,7 +1,12 @@
 # ninja
 
 A new Flutter project.
-
+<div align="center">
+    <img src="/screenshots/screen1.jpg" width="400px"</img> 
+</div>
+<div align="center">
+    <img src="/screenshots/screen1.jpg" width="400px"</img> 
+</div>
 ## Getting Started
 
 This project is a starting point for a Flutter application.
