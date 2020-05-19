@@ -1,11 +1,9 @@
 # ninja
 
 A new Flutter project.
-<div align="right">
-    <img src="/screenshots/screen1.jpg" width="152px" height="320px"></img> 
-</div>
-<div align="left">
-    <img src="/screenshots/screen2.jpg" width="152px" height="320px"></img> 
+<div>
+    <img src="/screenshots/screen1.jpg" width="152px" height="320px" align="left"></img> 
+    <img src="/screenshots/screen2.jpg" width="152px" height="320px" ></img>
 </div>
 ## Getting Started
 
