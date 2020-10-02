@@ -79,7 +79,7 @@ class NinjaCard extends StatelessWidget {
               height: 5.0,
             ),
             Text(
-              '120',
+              '200',
               style: TextStyle(
                 color: Colors.grey[50],
                 letterSpacing: 2,
